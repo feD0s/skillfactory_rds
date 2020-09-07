@@ -8,3 +8,4 @@ pyvenv.cfg
 .gitignore
 .ipynb_checkpoint
 /.vscode
+module_4_recommendations/recommend/src/data
