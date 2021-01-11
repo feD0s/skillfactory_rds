@@ -1,4 +1,5 @@
 *.csv
+*.json
 module_4_recommendations/bin
 module_4_recommendations/etc
 module_4_recommendations/lib
