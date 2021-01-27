@@ -8,6 +8,18 @@ module_4_recommendations/include
 pyvenv.cfg
 .gitignore
 .ipynb_checkpoint
+.ipynb_checkpoints
 /.vscode
 module_4_recommendations/recommend/src/data
 Diploma/.ipynb_checkpoints
+catboost_fold_1.model
+catboost_fold_2.model
+catboost_fold_3.model
+catboost_fold_4.model
+catboost_fold_5.model
+data
+data (copy)
+catboost_info
+requirements.txt
+ipynb_checkpoint
+cian_EDA-checkpoint.ipynb
